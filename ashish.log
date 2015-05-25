@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  25 MAY 2015 23:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  25 MAY 2015 23:59
 entering extended mode
 **ashish.tex
 (D:\ashish\ashish.tex
@@ -164,24 +164,36 @@ File: pic.jpg Graphic file (type jpg)
  <use pic.jpg>
 Package pdftex.def Info: pic.jpg used on input line 13.
 (pdftex.def)             Requested size: 96.73788pt x 161.22694pt.
- [1
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/ashish/pic.jpg>] (D:\a
-shish\ashish.aux) ) 
+Overfull \hbox (32.78368pt too wide) in paragraph at lines 29--40
+[][]  
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/ashish/pic.jpg>]
+(D:\ashish\ashish.aux) ) 
 Here is how much of TeX's memory you used:
- 1610 strings out of 493921
- 21116 string characters out of 3154500
- 79581 words of memory out of 3000000
- 4934 multiletter control sequences out of 15000+200000
- 5156 words of font info for 19 fonts, out of 3000000 for 9000
+ 1630 strings out of 493921
+ 21326 string characters out of 3154500
+ 80581 words of memory out of 3000000
+ 4946 multiletter control sequences out of 15000+200000
+ 7901 words of font info for 28 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,5n,19p,324b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/mikt
-ex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/miktex/fonts/type1/public/amsfo
-nts/cm/cmss12.pfb><D:/miktex/fonts/type1/public/amsfonts/cm/cmss17.pfb>
-Output written on ashish.pdf (1 page, 142915 bytes).
+ 27i,6n,19p,324b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D
+:/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/miktex/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><D:/miktex/fonts/type1/public/amsfonts/cm/cmss12.pfb><D:
+/miktex/fonts/type1/public/amsfonts/cm/cmss17.pfb>
+Output written on ashish.pdf (1 page, 155984 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
