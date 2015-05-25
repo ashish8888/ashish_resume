@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  26 MAY 2015 00:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  26 MAY 2015 00:02
 entering extended mode
 **ashish.tex
 (D:\ashish\ashish.tex
@@ -175,25 +175,32 @@ Overfull \hbox (32.78368pt too wide) in paragraph at lines 29--41
 [][] 
  []
 
-[1
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 49.
+(D:\miktex\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
+ [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/ashish/pic.jpg>]
-(D:\ashish\ashish.aux) ) 
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/ashish/pic.jpg>] (D:\a
+shish\ashish.aux) ) 
 Here is how much of TeX's memory you used:
- 1630 strings out of 493921
- 21326 string characters out of 3154500
- 81581 words of memory out of 3000000
- 4946 multiletter control sequences out of 15000+200000
+ 1647 strings out of 493921
+ 21578 string characters out of 3154500
+ 82581 words of memory out of 3000000
+ 4960 multiletter control sequences out of 15000+200000
  7901 words of font info for 28 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,6n,19p,324b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D
-:/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/miktex/fonts/type1/public
-/amsfonts/cm/cmr12.pfb><D:/miktex/fonts/type1/public/amsfonts/cm/cmss12.pfb><D:
-/miktex/fonts/type1/public/amsfonts/cm/cmss17.pfb>
-Output written on ashish.pdf (1 page, 156609 bytes).
+<D:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/mik
+tex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/miktex/fonts/type1/public/amsf
+onts/cm/cmr12.pfb><D:/miktex/fonts/type1/public/amsfonts/cm/cmss12.pfb><D:/mikt
+ex/fonts/type1/public/amsfonts/cm/cmss17.pfb><D:/miktex/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb>
+Output written on ashish.pdf (1 page, 165431 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
